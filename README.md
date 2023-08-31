@@ -1,4 +1,14 @@
-# netflix-clone
-![Netf1](https://github.com/codervipsingh/netflix-clone/assets/120233689/3f32b6ec-d09e-453c-a512-e42fab7e9b2d)
-![Uploading Netf2.jpeg…]()
-![Uploading Netf3.jpeg…]()
+
+NetflixClone
+
+Netflix Clone make by Me
+
+
+
+## Acknowledgements
+The <div> tag defines a division in an HTML document. 
+The <nav> tag is used for declaring the navigational section in HTML documents.
+The HTML <img> tag is used to embed an image in a web page.
+The <button> tag is used to create a clickable button 
+h1 tag for used for heading
+p tag is used to define a paragraph
